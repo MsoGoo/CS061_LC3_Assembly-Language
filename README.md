@@ -8,4 +8,3 @@ A record of learning LC-3 Language (Include Related Materials)
 
 
 
-Note: Prof. Allan Knight is awesome! 
